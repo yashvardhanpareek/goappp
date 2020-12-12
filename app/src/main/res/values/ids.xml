@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spinner1" type="id" />
+    <item name="button1" type="id" />
+    <item name="efueltype" type="id" />
+    <item name="spinner3" type="id" />
+    <item name="eFuelType" type="id" />
+    <item name="recyclerView" type="id" />
+</resources>
